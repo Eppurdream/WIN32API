@@ -1,5 +1,7 @@
 # Win32를 이용해 선을 그리는 프로그램 작성함
 
+- 코드
+<details>
 ```cpp
 // GDIPJ.cpp : 애플리케이션에 대한 진입점을 정의합니다.
 //
@@ -174,3 +176,4 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
     return 0;
 }
 ```
+</details>
