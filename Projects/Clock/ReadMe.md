@@ -1,6 +1,7 @@
 # 시간에 따라 움직이는 시계를 만든 프로젝트
 
-<detail>
+- 코드
+<details>
 
 
 ```cpp
@@ -244,4 +245,4 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 ```
 
 
-</detail>
+</details>
